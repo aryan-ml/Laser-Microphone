@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs>
+<image id="source-836" x="0" y="0" width="13" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAOCAYAAAD0f5bSAAAABmJLR0QA/wD/AP+gvaeTAAABSUlEQVQokc2Sv2qTYRTGf+e8b5IaKi5GSijo0C4OBQehIk5uTgULnXsNvYxeQe/AXZB26F4hS1qcFKm2Fgyhm0m+999x+JLARzYnn+lwOD/Ow3kO/NeSRfFp+P24XcKz+yoTstXNUlAMDNoPuj/3X24fAfgF9Hl4uXd2frpl6kFAckJSRGOFhhlv373/BjShkoLXMMPU1RZKrsEYkBjJsVrOLoscU1urGaZaQ1bmUERTIKfUXoEsVE7DFETnjYLkjOaE5IiV7FYgJ/j1lm9CTsEc0EGda9o7GQxafX1ku6/fNE5rGIKQi+GEaGYiIuYBXvWeHrpSPZ6mTC4FQShmqAiGAcLDTmvj8mZ8AHyQj4O77s5m6+uak74B40ni9yQtt/W6niddjwCzzPWvOH3uL3582bm6lZEKI4BSZ9lIX+cvUAz+RHnBv+gvFtqTdy0OYgkAAAAASUVORK5CYII="/>
+</defs>
+<use xlink:href="#source-836" transform="matrix(0.24, 0, 0, 0.24, 30, 19.68)"/>
+</svg>
