@@ -15,7 +15,7 @@ caused by surface vibrations and converts them back into audio.
 ## Project Media
 
 ### Animation / Working Principle
-> Drive Link :
+> Drive Link : [Access media here (Videos + images)](https://drive.google.com/drive/folders/1l8H-hZZI1A3veK387arMd_2Nyy2kBWVW?usp=sharing)
 
 ### Circuit Diagram
 [![Diagram](media/circuit_diagram.jpg)](media/circuit_diagram.jpg)
