@@ -1,14 +1,14 @@
 # Laser-Microphone
-> Reconstructing sound from light using a laser and photodiode. 
+> Reconstructing sound from light using a custom laser and photodiode. 
 
 ---
 
 ## Overview
-This project demonstrates how sound vibrations on a reflective surface (glass/window)
-can be reconstructed using a laser beam and a photodiode sensor.
+This project demonstrates how sound vibrations on a reflective surface such as glass or a window can be reconstructed using a laser beam, a photodiode sensor, and optical sensing principles.
 
-Instead of recording sound directly, the system captures tiny light fluctuations
-caused by surface vibrations and converts them back into audio.
+A custom-modified laser module is powered through an LM2596 step-down converter, regulating the USB 5V supply down to a stable 3V input for consistent laser output.
+
+Instead of recording sound directly, the system detects tiny fluctuations in reflected light caused by surface vibrations and converts them back into an audio signal.
 
 ---
 
@@ -20,6 +20,10 @@ caused by surface vibrations and converts them back into audio.
 [![Diagram](media/Intro_label.png)](media/Intro_label.png)
 [![Diagram](media/hardware.png)](media/hardware.png)
 [![Diagram](media/hand_interupt.png)](media/hand_interupt.png)
+
+### Manim Explanation
+[![Diagram](media/Wave.png)](media/Wave.png)
+[![Diagram](media/Wave2.png)](media/Wave2.png)
 
 ### Circuit Diagram
 [![Diagram](media/circuit_diagram.jpg)](media/circuit_diagram.jpg)
@@ -33,12 +37,12 @@ You can listen to reconstructed audio samples here:
 ## Hardware Used
 | Component | Purpose |
 |----------|----------|
-| Laser Module | Sends laser beam |
-| Photodiode | Detects reflected light |
+| Custom Laser Module | Sends steady 3V laser beam | 
+| Photodiode | Detects reflected light | 
 | LM386 Amplifier | Amplifies weak signal |
-| LM2596 Step Down | Voltage regulation |
+| LM2596 Step Down | Voltage regulation from 5V to 3V|
 | AUX Output | Audio output |
-| USB Power | Power supply |
+| USB Power | Direct Power supply |
 
 ---
 
