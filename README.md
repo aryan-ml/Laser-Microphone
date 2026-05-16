@@ -32,7 +32,8 @@ Instead of recording sound directly, the system detects tiny fluctuations in ref
 [![Diagram](media/workflow.jpg)](media/workflow.jpg)
 
 ### Output Samples
-You can listen to reconstructed audio samples here:
+You can listen to reconstructed audio samples here:  [![Play Audio](https://img.shields.io/badge/▶-Play_Audio-green)](https://voca.ro/1drOPyk8wzLL)
+> Note the audio is completely reconstructed without any use of microphone or any recording device 
 
 ## Hardware Used
 | Component | Purpose |
